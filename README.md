@@ -1,5 +1,5 @@
 # Exo-106-JS-Les-modules
-Le fichier qui contiendra votre module est HTML.js, le fichier qui l'utilisera est app.js
+Le fichier qui contiendra votre module est Module.js, le fichier qui l'utilisera est app.js
 
 1. Liez correctement vos modules dans le fichier HTML.
 2. Créez un module vous permettant de faciliter la création d'éléments HTML, le module doit contenir:
